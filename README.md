@@ -35,6 +35,6 @@ cd sublime-text-imfix
 ```
 sudo apt-get install unity-tweak-tool
 ```
-解压conky下Harmattan.zip到任意目录，移动.harmattan-assets到~目录下。将.harmattan-themes下相应主题下(比如Ubuntu-Touch)God-Mode/normal-mode/.conkyrc移动到~目录，更改该文件窗口位置到想要的位置。
+解压conky下Harmattan.zip到任意目录，移动.harmattan-assets到\~目录下。将.harmattan-themes下相应主题下(比如Ubuntu-Touch)God-Mode/normal-mode/.conkyrc移动到~目录，更改该文件窗口位置到想要的位置。
 
     在Startup Application添加开机启动，命令: conky -q
